@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.view.menu.ListMenuItemView xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:minWidth="196dp">
+	<ImageView android:id="false" android:background="res/drawable/abc_list_divider_material.xml" android:layout_width="-1" android:layout_height="1dp" android:layout_marginTop="4dp" android:layout_marginBottom="4dp" />
+	<LinearLayout android:id="false" android:duplicateParentState="true" android:layout_width="-1" android:layout_height="{2:2130837629}" style="resourceId:0x7f0d00af">
+		<RelativeLayout android:layout_gravity="0x10" android:duplicateParentState="true" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="{4:1065353216}" style="resourceId:0x7f0d00b0">
+			<TextView android:textAppearance="{2:2130837793}" android:ellipsize="4" android:id="false" android:fadingEdge="0x1000" android:duplicateParentState="true" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" android:layout_alignParentTop="true" style="resourceId:0x7f0d00b3" />
+			<TextView android:textAppearance="{2:2130837800}" android:id="false" android:duplicateParentState="true" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" android:layout_below="false" style="resourceId:0x7f0d00b3" />
+		</RelativeLayout>
+		<ImageView android:layout_gravity="0x11" android:id="false" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:scaleType="5" style="resourceId:0x7f0d00b2" />
+	</LinearLayout>
+</androidx.appcompat.view.menu.ListMenuItemView>
